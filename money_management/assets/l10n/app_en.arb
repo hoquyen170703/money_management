@@ -1,0 +1,132 @@
+{
+  "input": "Input",
+  "@input": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "calendar": "Calendar",
+  "@calendar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "report": "Report",
+  "@report": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setting": "Setting",
+  "@setting": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "darkAppearance": "Dark Appearance",
+  "@darkAppearance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expense": "Expense",
+  "@expense": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "income": "Income",
+  "@income": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Date",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note": "Note",
+  "@note": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "amount": "Amount",
+  "@amount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "Category",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Type",
+  "@type": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notePlaceholder": "Enter value",
+  "@notePlaceholder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputComplete": "Data has been saved!",
+  "@inputComplete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vietnamese": "Vietnamese",
+  "@vietnamese": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "English",
+  "@english": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mon": "MON",
+  "@mon": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tue": "TUE",
+  "@tue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wed": "WED",
+  "@wed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thu": "THU",
+  "@thu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fri": "FRI",
+  "@fri": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sat": "SAT",
+  "@sat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sun": "SUN",
+  "@sun": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "total": "Total",
+  "@total": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
